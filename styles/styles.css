@@ -36,7 +36,7 @@ body {
   grid-column: span 1;
 }
 .grid-container > div:nth-child(4){
-  grid-column: 2/6;
+  grid-column:2/6;
 }
 .grid-container > div:nth-child(5){
   grid-column: span 3;
@@ -44,4 +44,6 @@ body {
 .grid-container > div:nth-child(6){
   grid-column: span 3;
 }
+
+
 
